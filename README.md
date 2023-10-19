@@ -35,5 +35,15 @@ Cabe resaltar que clips es Open Source por tanto esta a la disposición de todo 
 alguno.*
 
 ### ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial?
-*El futuro de los sistemas expertos con del auge de la inteligencia artificial esta marcado por la capacidad *
+*El futuro de los sistemas expertos con del auge de la inteligencia artificial esta marcado por la capacidad que puedan tener 
+los sistemas expertos para actualizarse y adaptarse a las nuevas tecnologias. Se prevee una mayor integración de técnicas de 
+aprendizaje automático en los sistemas expertos, por tanto los sistemas expertos tendran la capacidad de aprender y adaptarse 
+a medida que interactúan con datos en tiempo real, mejorando su capacidad para tomar decisiones en entornos cambiantes, la fusión 
+de sistemas expertos con técincas de aprendizaje automático dará lugar a sistemas hibridos más potentes. Por otro lado si se 
+trata de aumentar la complejidad de los modelos aumentará la calida del trato con el usuario mejorando la experiencia en la 
+interacción. Con relación al campo de la IA podriamos llegar a ver sistemas expertos desarrollados en modelos preentrenados, 
+esto facilitaría la implementación de sistemas expertos en diversas aplicaciones sin requerir un conocimiento profundo del 
+dominio específico.
+Pese a todos estos factores los sistemas expertos seguirán siendo valiosos en sectores específicos donde el conocimiento 
+especializado es esencial, como la medicina, la ingeniería, el derecho y la gestión de proyectos complejos.*
 
