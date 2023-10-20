@@ -47,3 +47,35 @@ dominio específico.
 Pese a todos estos factores los sistemas expertos seguirán siendo valiosos en sectores específicos donde el conocimiento 
 especializado es esencial, como la medicina, la ingeniería, el derecho y la gestión de proyectos complejos.*
 
+
+### Pros y Contras de Anaconda y Google Collab
+**Collab**
+
+*Algunos de los puntos a favor con los que cuenta collab son muchos, algunos de estos 'Pros' son:*
+-El acceso desde cualquier lugar, al ser un servicio web facilita el trabajo en proyectos desde diferentes ubicaciones y dispositivos.
+-No tiene coste alguno.
+-No depende de las características de tu dispositivo para ejecutar consultas ya que cuenta con CPU y GPU propias.
+-Esta integrado con Google Drive.
+-Cuenta con bibliotecas de Python preinstaladas, esto facilita la importación de paquetes.
+
+*Por otro lado tambien caben destacar puntos negativos de este entorno de desarrollo:*
+-Limita el tiempo y los recursos de su servicios gratuitos, esto presenta un problema a la hora de desarrollar proyectos a largo plazo.
+-Depende de la conexión a Internet ya que se trata de un servicio en la web.
+-No es adecuado para proyectos que necesiten un gran grado de seguridad ya que los datos se almacenan en los servidores de Google.
+-Google collab puede sufrir desconexiones inesperadas, esto no favorece al desarrollo de proyectos con esta herramienta.
+
+
+**Anaconda**
+
+*Las características positivas que hacen destacar a Anaconda entre otras son:*
+-Permite crear enviroments separadas con versiones especificas de Python y paquetes, esto evita conflictos de versiones y bibliotecas.
+-Es muy sencillo instalar los paquetes que vayamos a utilizar, además cuenta con un ámplio abanico de paquetes y librerias compatibles preinstaladas enfocadas al Aprendizaje Automático.
+-Es un entorno de desarrollo multiplataforma.
+-Facilita la gestión de dependencias ya que son gestionadas por el mismo Anaconda.
+-Cuenta con una gran comunidad y un servicio de soporte muy sólido.
+
+*En contraparte a los puntos anteriores también encontramos datos en contra de este entorno de desarrollo:*
+-La instalación de Anaconde requiere mucho espacio en disco debido a la gran cantidad de paquetes preinstalados, estos factores pueden afectar a fin de cuentas al rendimiento de Anaconda en comparación a otros -programas.
+-La curva de aprendizaje de para los nuevos usuarios de Anaconda puede ser pronunciada debido a la gestión de entornos y la comprensión de su funcionamiento.
+-Si se requieren paquetes que no vienen preinstalados en Anaconda necesitaremos recurrir a otras fuentes como Pypl para obtenenerlos.
+
