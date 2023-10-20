@@ -43,10 +43,13 @@ de sistemas expertos con técincas de aprendizaje automático dará lugar a sist
 trata de aumentar la complejidad de los modelos aumentará la calida del trato con el usuario mejorando la experiencia en la 
 interacción. Con relación al campo de la IA podriamos llegar a ver sistemas expertos desarrollados en modelos preentrenados, 
 esto facilitaría la implementación de sistemas expertos en diversas aplicaciones sin requerir un conocimiento profundo del 
-dominio específico.
+dominio específico.  
 Pese a todos estos factores los sistemas expertos seguirán siendo valiosos en sectores específicos donde el conocimiento 
 especializado es esencial, como la medicina, la ingeniería, el derecho y la gestión de proyectos complejos.*
 
+a
+a
+a
 
 ### Pros y Contras de Anaconda y Google Collab
 **Collab**
